@@ -99,11 +99,6 @@ chokidar@^3.5.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
-colors@*:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
-  integrity sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==
-
 concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
@@ -395,13 +390,6 @@ negotiator@0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
-
-nodeman@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/nodeman/-/nodeman-1.1.2.tgz#78128508f7540dbbffbf7f1093222e09d58e1b64"
-  integrity sha512-RpRpDnMI4TN/EPX6+my7f02585I14AQO8YrHTkO1aTiC65+sMa5G3NwQplN6kwue1njxWiaSz2UwCnDbwkLgeQ==
-  dependencies:
-    colors "*"
 
 nodemon@^2.0.22:
   version "2.0.22"
