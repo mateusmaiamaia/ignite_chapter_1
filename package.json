@@ -1,0 +1,14 @@
+{
+  "name": "ignite_chapter_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mateusmaiamaia/ignite_chapter_1.git",
+  "author": "mateusmaiamaia <mateusmaiamaia@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
